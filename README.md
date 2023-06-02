@@ -1,5 +1,4 @@
-### Hi.
-
+## Hi.
 <!--
 **Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,18 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ###
 
 <h3 align="left">About me</h2>
 
+
+-->
+My interests are mainly fullstack web development and the Rust Programming Language 🦀
+
 ###
 
- - I'm a developer whose interests are mainly fullstack web development and the Rust Programming Language 🦀
-
-###
-
-<h3 align="left">I have experience with</h2>
+<h3 align="left">I have experience working with</h2>
 
 ###
 
