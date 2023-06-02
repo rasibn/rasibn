@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+###
+
+<h3 align="left">About me</h2>
+
+###
+
+ - I'm a developer whose interests are mainly fullstack web development and the Rust Programming Language 🦀
+
 ###
 
 <h3 align="left">I have experience with</h2>
