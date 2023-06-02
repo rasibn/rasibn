@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true" height="40" width="52" alt="Python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="Ubuntu logo"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" width="52" alt="LaTeX logo"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/icons/linux/linux-original.svg" height="40" width="52" alt="Arch btw logo"/>
   
 
   
