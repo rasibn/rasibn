@@ -1,4 +1,4 @@
-### Hi there
+### Hi.
 
 <!--
 **Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">I have experience with</h2>
+<h3 align="left">I have experience with</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" width="52" alt="TypeScript logo"  />
-    <img src="https://github.com/devicons/devicon/tree/master/icons/ubuntu-plain.svg" height="40" width="52" alt="Ubuntu logo"/>
+    <img src="https://github.com/devicons/devicon/tree/master/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="Ubuntu logo"/>
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React logo"  />
