@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg?raw=true" height="40" width="52" alt="JavaScript logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?raw=true" height="40" width="52" alt="TypeScript logo"  />
-    <img src="https://github.com/devicons/devicon/tree/master/icons/ubuntu/ubuntu-plain.svg?raw=true" height="40" width="52" alt="Ubuntu logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="TypeScript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="Ubuntu logo"/>
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg?raw=true" height="40" width="52" alt="React logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg?raw=true" height="40" width="52" alt="C logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg?raw=true" height="40" width="52" alt="Rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="Rust logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg?raw=true" height="40" width="52" alt="Go logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true" height="40" width="52" alt="Python logo"  />
 
