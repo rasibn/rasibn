@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">Technology I like using</h2>
+<h3 align="left">Technologies I like using</h2>
 
 ###
 
