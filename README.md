@@ -1,4 +1,4 @@
-## Hello.
+## Hello there.
 <!--
 **Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 
 
 -->
-I like making cool stuff using cool tech 
 
 ###
 
-<h3 align="left">Some technology I like using</h2>
+<h3 align="left">Technology I like using</h2>
 
 ###
 
