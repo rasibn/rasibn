@@ -1,7 +1,7 @@
-## Hello there.
-<!--
-**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there!
+Welcome to my github profile!
 
+<!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">Techstack</h2>
+<h3 align="left">Things I use</h2>
 
 ###
 
