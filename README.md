@@ -7,7 +7,7 @@ I am a software dev with a strong background in Computer Science. As a self-proc
 ### Tech Stack 💻
 - Languages: JavaScript (ES6+), Python, Go, Java, Rust, HTML, CSS, Bash
 - Frameworks: React, Next, Node.js, Express.js
-- Databases: Orable, MySQL, MongoDB
+- Databases: Oracle, MySQL, MongoDB
 - Tools: Git, VS Code, nvim + tmux, vimium, i3 + Arch 😎
 - Others: RESTful APIs, Firebase, Heroku
 
