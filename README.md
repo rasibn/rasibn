@@ -2,13 +2,12 @@
 ## Welcome to my GitHub! 🌟
 
 ### About Me 🧑‍💻
-I am a software dev with a strong background in Computer Science. As a life-long learner, I am always exploring new technologies and seeking innovative solutions to real-world problems.
+I am a software dev from Pakistan.
 
 ### Tech Stack 💻
 - Languages: JavaScript (ES6+), Typescript, Python, Go, Java, Rust, HTML, CSS, Bash
 - Frameworks: React, Next, Node.js, Express.js
-- Databases: Oracle, MySQL, MongoDB
-- Tools: Git, VS Code, vim, nvim, tmux, vimium, i3
+- Tools: Git, VS Code, vim, nvim, vimium, i3
 
 ### Current Focus 🔍
 I am currently honing my skills in full-stack web development and delving into the world of of tui applications. My goal is to create scalable 🦀 and user-friendly applications that make a positive impact.
@@ -16,7 +15,6 @@ I am currently honing my skills in full-stack web development and delving into t
 ### Get in Touch 📬
 I'm always open to exciting collaborations, brainstorming ideas, or simply discussing technology and coding. Feel free to reach out to me 
 
-_Let's get to work!_
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
