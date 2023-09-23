@@ -3,10 +3,9 @@
 I am a software dev from Pakistan.-->
 
 ### Tech Stack 💻
-- Languages: C++, JavaScript (ES6+), Typescript, Python, Go, Java, Rust, HTML, CSS, Bash
+- Languages: C++, JavaScript/Typescript, Python, Go, Java, Rust, HTML/CSS, Bash
 - Frameworks: React, Next, Express.js
-- Tools: Git, vim, nvim, vimium, i3
-
+- Tools: neovim, vimium, i3, git
 ### Current Focus 🔍
 I am currently honing my skills in full-stack web development and delving into the world of of tui applications. My goal is to create scalable 🦀 and user-friendly applications that make a positive impact.
 
