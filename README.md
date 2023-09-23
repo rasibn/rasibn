@@ -1,8 +1,6 @@
 # Hi there, I'm Rasib! 👋
-## Welcome to my GitHub! 🌟
-
-### About Me 🧑‍💻
-I am a software dev from Pakistan.
+<!--### About Me 🧑‍💻
+I am a software dev from Pakistan.-->
 
 ### Tech Stack 💻
 - Languages: C++, JavaScript (ES6+), Typescript, Python, Go, Java, Rust, HTML, CSS, Bash
