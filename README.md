@@ -7,7 +7,7 @@ I am a software dev from Pakistan.-->
 - Frameworks: React, Next, Express.js
 - Tools: neovim, vimium, i3, git
 ### Current Focus 🔍
-I am currently honing my skills in full-stack web development and delving into the world of of tui applications. My goal is to create scalable 🦀 and user-friendly applications that make a positive impact.
+I am currently honing my skills in full-stack web development and delving into the world of of competitive programming.
 
 ### Get in Touch 📬
 I'm always open to exciting collaborations, brainstorming ideas, or simply discussing technology and coding. Feel free to reach out to me 
