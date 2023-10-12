@@ -2,15 +2,17 @@
 <!--### About Me 🧑‍💻
 I am a software dev from Pakistan.-->
 
-### Tech Stack 💻
-- Languages: C++, JavaScript/Typescript, Python, Go, Java, Rust, HTML/CSS, Bash
-- Frameworks: React, Next, Express.js
-- Tools: neovim, vimium, i3, git
+### All things Tech 💻
+- Languages I use: C++ > Go > Python > Rust > JavaScript > Java
+- Learning: Bash, Kotlin, OCaml, lua
+- Environment: neovim + i3
+  
 ### Current Focus 🔍
-I am currently honing my skills in full-stack web development and delving into the world of of competitive programming.
+- Getting better at competitive programming [😸](https://open.kattis.com/users/rasib) [🧑‍💻]
+- Making opensource apps and cli-tools
 
 ### Get in Touch 📬
-I'm always open to exciting collaborations, brainstorming ideas, or simply discussing technology and coding. Feel free to reach out to me 
+Always open to exciting oppurtunities, feel free to reach out!
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
