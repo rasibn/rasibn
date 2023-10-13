@@ -8,11 +8,11 @@ I am a software dev from Pakistan.-->
 - Environment: neovim + i3
   
 ### Current Focus 🔍
-- Getting better at competitive programming [😸](https://open.kattis.com/users/rasib) [🧑‍💻]
+- Getting better at competitive programming [😸](https://open.kattis.com/users/rasib) 🧑‍💻
 - Making opensource apps and cli-tools
 
 ### Get in Touch 📬
-Always open to exciting oppurtunities, feel free to reach out!
+Always open to exciting opportunities, feel free to reach out!
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
