@@ -3,8 +3,8 @@
 I am a software dev from Pakistan.-->
 
 ### All things Tech 💻
-- Languages I use: C++ > Go > Python > Rust > JavaScript > Java
-- Learning: Bash, Kotlin, OCaml, lua
+- Languages I use: Java > Python > C++ > Go > Rust > JavaScript
+- Learning: lua, Bash, Kotlin, OCaml
 - Environment: neovim + i3
   
 ### Current Focus 🔍
