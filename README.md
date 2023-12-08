@@ -9,7 +9,7 @@ I likes terminals 😃
 - Contributing to opensource projects I like
 
 ### Get in Touch
-I'm always open to exciting opportunities/projects to work on, feel free to reach out (really).
+I'm open to exciting opportunities/projects to work on, feel free to reach out (really).
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
