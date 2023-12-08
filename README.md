@@ -1,17 +1,14 @@
-# Hi there, I'm Rasib! 👋
-<!--### About Me 🧑‍💻
-I am a software dev from Pakistan.-->
-
-### All things Tech 💻
-- Languages I use: Java > Python > C++ > Go > Rust > JavaScript
-- Learning: lua, Bash, Kotlin, OCaml
+# Hi there, I'm rasib!
+<!--### About Me 
+I likes terminals 😃.-->
+- Languages I can use: Python, C++, Rust, Typscript, Kotlin, Java, Go, Lua
 - Environment: neovim + i3
   
-### Current Focus 🔍
-- Getting better at competitive programming [😸](https://open.kattis.com/users/rasib) 🧑‍💻
-- Making opensource apps and cli-tools
+### Current Focus
+- Getting better at competitive programming to get a job maybe.
+- Contributing to opensource projects I like
 
-### Get in Touch 📬
+### Get in Touch
 Always open to exciting opportunities, feel free to reach out!
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
