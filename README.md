@@ -1,11 +1,11 @@
 # Hi there, I'm rasib!
 ### About Me
 I likes terminals 😃
-- Languages I can use: Python, C++, Rust, Typscript, Kotlin, Java, Go, Lua
+- Languages I might use: Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
 - Environment: neovim + i3
   
 ### Current Focus
-- Getting better at competitive programming to get a job maybe
+- Getting better at competitive programming to get a job
 - Contributing to opensource projects I like
 
 ### Get in Touch
