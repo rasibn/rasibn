@@ -1,4 +1,5 @@
-# Hello
+<!--# Hello
+-->
 ## About Me
 - Languages I might use: Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
 - Environment: neovim + i3
