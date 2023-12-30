@@ -1,8 +1,6 @@
 <!--# Hello
 -->
-# rasib.me
-
-## About me
+# [rasib.me](https://rasib.me)
 - Languages I am familar with are Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
 - Environment: neovim + i3
   
