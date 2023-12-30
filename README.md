@@ -1,12 +1,15 @@
 <!--# Hello
 -->
-## About Me
-- Languages I might use: Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
+# rasib.me
+
+## About me
+- Languages I am familar with are Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
 - Environment: neovim + i3
   
-## Current Focus
+## Focus
+- Getting better at frontend
+- Learning low-level programming with Rust
 - Competitive programming
-- Contributing to opensource projects
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
