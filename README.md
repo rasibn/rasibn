@@ -5,11 +5,8 @@ I likes terminals 😃
 - Environment: neovim + i3
   
 ### Current Focus
-- Getting better at competitive programming to get a job
-- Contributing to opensource projects I like
-
-### Get in Touch
-I'm open to exciting opportunities/projects to work on, feel free to reach out (really).
+- Competitive programming 
+- Contributing to opensource projects
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
