@@ -1,11 +1,10 @@
-# Hi there, I'm rasib!
-### About Me
-I likes terminals 😃
+# Hello
+## About Me
 - Languages I might use: Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
 - Environment: neovim + i3
   
-### Current Focus
-- Competitive programming 
+## Current Focus
+- Competitive programming
 - Contributing to opensource projects
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
