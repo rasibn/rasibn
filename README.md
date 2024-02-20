@@ -4,10 +4,9 @@
 - Languages I am familar with are Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
 - Environment: neovim + i3
   
-## Focus
-- Getting better at frontend
-- Learning low-level programming with Rust
-- Competitive programming
+## Current Focus
+- Backend
+- Making a compiler in Rust
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
