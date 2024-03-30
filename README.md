@@ -3,10 +3,7 @@
 # [rasib.me](https://rasib.me)
 - Languages I am familar with are Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
 - Environment: neovim + i3
-  
-## Current Focus
-- Backend
-- Making a compiler in Rust
+
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
