@@ -1,8 +1,8 @@
 <!--# Hello
 -->
 # [rasib.me](https://rasib.me)
-- Languages I am familar with are Go, Python, C++, Rust, Typescript, Kotlin, Java, Lua
-- Environment: neovim + i3
+- Can write Rust, Go, C, Kotlin, Java, Lua, Python, Javascript, English
+- Dev environment: neovim + i3
 
 
 <!--**Rasib0/Rasib0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
