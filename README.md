@@ -1,5 +1,4 @@
-
-# rasib
+# Rasib Nadeem
 - Looking to make my developer workflow more awesome and write pretty code.
 
 ## Fun Facts
