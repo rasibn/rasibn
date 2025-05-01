@@ -1,6 +1,6 @@
 # rasib.nadeem
 - Software Engineer @Careem
-- I write pretty code in my spare time
+- I write code in my spare time
 
 ## Fun Facts
 - I use LazyVim (Favorite plugin is [oil.nvim](https://github.com/stevearc/oil.nvim))
