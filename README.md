@@ -5,8 +5,7 @@
 ## Things
 - My favorite editor is neovim (favorite plugin is [oil.nvim](https://github.com/stevearc/oil.nvim))
 - I like programming and discovering new tools to make life easier
-- Easiest way to connect would be on twitter or discord (username: `rasib`)
-
+- Easiest way to connect would be on twitter
 ## Stats
 - [![Rasib's github stats](https://github-readme-stats.vercel.app/api?username=rasibn&count_private=true&show_icons=true)](https://github.com/rasibn)- 
 
