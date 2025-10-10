@@ -14,4 +14,4 @@ I mainly use go, java and ts at work and miss enums everyday :(
 
 
 ## Contact
-You can connect with me on on twitter
+You can connect with me on twitter
