@@ -1,4 +1,4 @@
-# rasib.nadeem
+# Rasib Nadeem
 - Software Engineer @Careem
 - I like coding things
 
