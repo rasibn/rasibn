@@ -4,6 +4,7 @@
 
 ## Things
 - I use neovim (favorite plugin is [oil.nvim](https://github.com/stevearc/oil.nvim)), nix, hyprland :)
+- My computer setup is public source [here](https://github.com/rasibn/dotfiles/tree/main/nix-hm)
 
 ## Stats
 
