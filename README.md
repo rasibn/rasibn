@@ -9,13 +9,13 @@
 - I use neovim (favorite plugin is [oil.nvim](https://github.com/stevearc/oil.nvim)), nix, hyprland :)
 - My computer setup is public source [here](https://github.com/rasibn/dotfiles/tree/main/nix-hm)
 
-## Stats
+## Some Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasibn)](https://github.com/rasibn)
-[![Rasib's github stats](https://github-readme-stats.vercel.app/api?username=rasibn&count_private=true&show_icons=true)](https://github.com/rasibn)- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasibn&show_icons=true&theme=dark)
 
-I mainly use go, java and ts at work and miss enums everyday :(
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasibn&layout=compact&theme=dark)
 
+I currently mainly use go, java and ts at work
 
 ## Contact
 You can connect with me on twitter
