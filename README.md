@@ -1,8 +1,11 @@
-# Rasib Nadeem
-- Software Engineer @Careem
-- I like coding things
+## Interests
 
-## Things
+- Databases
+- Distributed systems
+- Text editors
+- Nix
+
+## Setup
 - I use neovim (favorite plugin is [oil.nvim](https://github.com/stevearc/oil.nvim)), nix, hyprland :)
 - My computer setup is public source [here](https://github.com/rasibn/dotfiles/tree/main/nix-hm)
 
